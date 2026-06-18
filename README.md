@@ -2,7 +2,7 @@
 
 A comprehensive collection of 19 C++ programs designed to demonstrate fundamental programming concepts, logical conditions, and advanced bitwise operations. This repository serves as a practical portfolio of core programming foundations and hardware-level logic manipulation.
 
-## 🚀 Key Topics Covered
+##  Key Topics Covered
 
 ### 1. Basic Operators & Logic
 * **Arithmetic Operations:** Basic math calculations with boundary checks (e.g., preventing division by zero).
@@ -21,7 +21,7 @@ A comprehensive collection of 19 C++ programs designed to demonstrate fundamenta
 
 ---
 
-## 🛠️ Getting Started
+##  Getting Started
 
 ### Prerequisites
 To compile and run these source files locally, you need a C++ compiler installed on your system (such as `GCC / G++` via MinGW on Windows, Clang on macOS, or your choice of a modern IDE like Dev-C++ or Visual Studio).
